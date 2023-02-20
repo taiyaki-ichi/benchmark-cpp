@@ -9,7 +9,7 @@ https://quick-bench.com/q/iZUHaIlkXAQ-LENiWdhizd4CiX0
 # その他
 
 ## 「参照外し」について
-この呼び方はマイナーっぽい[参考](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14173370699  
+この呼び方はマイナーっぽい[参考](https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q14173370699)  
 「dereference」の直訳。「indirection」の訳の「間接参照」の方が意味が通りやすい。  
 
 ## アセンブリ
