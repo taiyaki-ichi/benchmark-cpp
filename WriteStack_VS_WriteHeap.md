@@ -18,7 +18,7 @@ https://quick-bench.com/q/iZUHaIlkXAQ-LENiWdhizd4CiX0
 
 ### キーワード
 
-* 「movdqa」「movdqu」
+#### 「movdqa」「movdqu」
 
 拡張された128ビットの整数演算のSIMD命令であるSSE2の命令であり、128ビット単位でのメモリ間のコピーを高速に行うことができる。
 
@@ -28,16 +28,16 @@ movdqu：転送対象のメモリが16バイトでアライメント*されて�
 [参考](http://kirihari.net/program/memcpy.html)
 
 
-* 「paddd」
+#### 「paddd」
 
 パックされたDword整数を加算。[参考](https://qiita.com/deta-mamoru/items/d9582d5c0d3fe7d61f85#543-mmx-packed-arithmetic-instructions)
 
 
-* 「nopl」「nopw」
+#### 「nopl」「nopw」
 
 展開されたforループの処理の直前にあった命令。よくわからない→[参考](https://stackoverflow.com/questions/17030771/why-does-x86-nopl-instruction-take-an-operand)。処理には関係なさそう
 
-* 「%xmm」
+#### 「%xmm」
 
 ### 処理の流れ
 
