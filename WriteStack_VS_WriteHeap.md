@@ -21,15 +21,14 @@ https://quick-bench.com/q/iZUHaIlkXAQ-LENiWdhizd4CiX0
 
 拡張された128ビットの整数演算のSIMD命令であるSSE2の命令であり、128ビット単位でのメモリ間のコピーを高速に行うことができる。  
 2つの命令の違いは以下の通り  
-movdqa：転送対象のメモリが16バイトでアライメント*されている.  
+movdqa：転送対象のメモリが16バイトでアライメント*されている*
 movdqu：転送対象のメモリが16バイトでアライメント*されていない*  
 [参考](http://kirihari.net/program/memcpy.html) 
 
 
 #### 「paddd」
 
-パックされたDword整数を加算。
-
+パックされたDword整数を加算。  
 [参考](https://qiita.com/deta-mamoru/items/d9582d5c0d3fe7d61f85#543-mmx-packed-arithmetic-instructions)
 
 
